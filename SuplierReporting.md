@@ -9,5 +9,5 @@
 * Are top suppliers changing over time? (By year, quarter, period)
 
 Notes:
-    1. R = Recency = How measure this?  By recent PO and Invoice?
-    2. F = Frequency = By order and By delivery schedule?  By Invoicing and Payment?
+        1. R = Recency = How measure this?  By recent PO and Invoice?
+        2. F = Frequency = By order and By delivery schedule?  By Invoicing and Payment?
